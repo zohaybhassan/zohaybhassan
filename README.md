@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on small projects on C++
-- 📫 How to reach me: You can reach out to me on my email and insta.
+- 📫 You can reach out to me on my email and insta.
 
 <!---
 zohaybhassan/zohaybhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
