@@ -1,6 +1,4 @@
-# Hi, I'm Zohaib Hassan 👋
 
-## Contribution Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zohaybhassan/zohaybhassan/output/pacman-contribution-graph-dark.svg">
