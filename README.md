@@ -55,17 +55,6 @@ Building intelligent, data-driven products from machine-learning models to polis
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zohaybhassan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Zohaib Hassan's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaybhassan&layout=compact&theme=github_dark&hide_border=true" alt="Zohaib Hassan's most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=zohaybhassan&theme=github-dark-blue&hide_border=true" alt="Zohaib Hassan's GitHub streak" />
-
-</div>
-
 ---
 
 <div align="center">
