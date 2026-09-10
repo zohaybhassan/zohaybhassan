@@ -39,7 +39,7 @@ Building intelligent, data-driven products from machine-learning models to polis
 
 ### Cloud, Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,docker,kubernetes,git,github,vscode,figma&perline=9" alt="Cloud, database, and development tools" />
+<img src="https://skillicons.dev/icons?i=azure,aws,supabase,postgres,mysql,docker,kubernetes,git,github,vscode,figma&perline=11" alt="Cloud, database, and development tools including Microsoft Azure and AWS" />
 
 </div>
 
