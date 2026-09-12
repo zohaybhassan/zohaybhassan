@@ -48,9 +48,9 @@ Building intelligent, data-driven products from machine-learning models to polis
 ## Fun Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zohaybhassan/zohaybhassan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zohaybhassan/zohaybhassan/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/zohaybhassan/zohaybhassan/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://zohaybhassan.github.io/zohaybhassan/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://zohaybhassan.github.io/zohaybhassan/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://zohaybhassan.github.io/zohaybhassan/pacman-contribution-graph.svg">
 </picture>
 
 ---
