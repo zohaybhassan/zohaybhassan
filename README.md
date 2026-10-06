@@ -2,7 +2,7 @@
 
 # Zohaib Hassan
 
-### *AI Engineer | Full-Stack Engineer | Business Analyst*
+### *Business Analyst | AI Engineer | Full-Stack Engineer*
 
 Building intelligent, data-driven products from machine-learning models to polished user experiences.
 
